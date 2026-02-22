@@ -47,12 +47,11 @@ The UI was built with a scalable structure in mind to allow easy future integrat
 
 ## 📸 Screenshots
 
-![splash](assets/screenshots/splash.png)
 ![home](assets/screenshots/home.png)
 ![product](assets/screenshots/product.png)
-![Allproduct](assets/screenshots/Allproduct.png)
 ![cart](assets/screenshots/cart.png)
 ![checkout](assets/screenshots/checkout.png)
+![Allproduct](assets/screenshots/Allproduct.png)
 
 ---
 ## 📂 Project Structure
@@ -72,7 +71,7 @@ lib/
 ## 🚀 Getting Started
 
 ### 1️⃣ Clone the repository
-git clone https://github.com/your-username/glamshop-flutter-app.git
+git clone https://github.com/Faridamahmouudd/glamshop-flutter-ui.git
 
 ### 2️⃣ Install dependencies
 flutter pub get 
